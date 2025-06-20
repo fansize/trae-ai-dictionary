@@ -8,19 +8,14 @@ import {
 import { Button } from "@/components/ui/button"
 import { Check, Copy } from "lucide-react"
 import { useState, useEffect } from "react"
+import { CodeBlockProps } from "@/lib/types"
 
-// 定义CodeBlockWithHeader组件的props类型
-type CodeBlockWithHeaderProps = {
-  framework: string
-  filename: string
-  mdcFile: string
-}
 
 export function CodeBlockWithHeader({ 
   framework = "", 
   filename = "", 
   mdcFile = "" 
-}: CodeBlockWithHeaderProps) {
+}: CodeBlockProps) {
   const [copied, setCopied] = useState(false)
   const [mdcContent, setMdcContent] = useState("")
   const [loading, setLoading] = useState(true)
