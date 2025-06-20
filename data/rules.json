@@ -1,0 +1,27 @@
+[
+  {
+    "framework": "React",
+    "filename": "react.mdc",
+    "mdcFile": "react"
+  },
+  {
+    "framework": "Vue",
+    "filename": "vue.mdc",
+    "mdcFile": "vue"
+  },
+  {
+    "framework": "TypeScript",
+    "filename": "typescript.mdc",
+    "mdcFile": "typescript"
+  },
+  {
+    "framework": "Svelte",
+    "filename": "svelte.mdc",
+    "mdcFile": "svelte"
+  },
+  {
+    "framework": "Next.js",
+    "filename": "nextjs.mdc",
+    "mdcFile": "nextjs"
+  }
+]
