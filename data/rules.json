@@ -1,27 +1,72 @@
 [
   {
-    "framework": "React",
-    "filename": "react.mdc",
-    "mdcFile": "react"
+    "framework": "Clean Code",
+    "filename": "Clean Code Best Practices",
+    "mdcFile": "clean-code"
   },
   {
-    "framework": "Vue",
-    "filename": "vue.mdc",
-    "mdcFile": "vue"
+    "framework": "Code Quality",
+    "filename": "Code Quality Guidelines",
+    "mdcFile": "codequality"
   },
   {
-    "framework": "TypeScript",
-    "filename": "typescript.mdc",
-    "mdcFile": "typescript"
+    "framework": "C++",
+    "filename": "C++ Best Practices",
+    "mdcFile": "cpp"
   },
   {
-    "framework": "Svelte",
-    "filename": "svelte.mdc",
-    "mdcFile": "svelte"
+    "framework": "Database",
+    "filename": "Database Best Practices",
+    "mdcFile": "database"
+  },
+  {
+    "framework": "FastAPI",
+    "filename": "FastAPI Best Practices",
+    "mdcFile": "fastapi"
+  },
+  {
+    "framework": "Git Flow",
+    "filename": "Git Flow Guidelines",
+    "mdcFile": "gitflow"
   },
   {
     "framework": "Next.js",
-    "filename": "nextjs.mdc",
+    "filename": "Next.js Best Practices",
     "mdcFile": "nextjs"
+  },
+  {
+    "framework": "Node Express",
+    "filename": "Node Express Best Practices",
+    "mdcFile": "node-express"
+  },
+  {
+    "framework": "Python",
+    "filename": "Python Best Practices",
+    "mdcFile": "python"
+  },
+  {
+    "framework": "React",
+    "filename": "React Best Practices",
+    "mdcFile": "react"
+  },
+  {
+    "framework": "Svelte",
+    "filename": "Svelte Best Practices",
+    "mdcFile": "svelte"
+  },
+  {
+    "framework": "Tailwind CSS",
+    "filename": "Tailwind CSS Best Practices",
+    "mdcFile": "tailwind"
+  },
+  {
+    "framework": "TypeScript",
+    "filename": "TypeScript Best Practices",
+    "mdcFile": "typescript"
+  },
+  {
+    "framework": "Vue",
+    "filename": "Vue Best Practices",
+    "mdcFile": "vue"
   }
 ]

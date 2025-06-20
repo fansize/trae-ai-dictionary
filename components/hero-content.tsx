@@ -58,13 +58,15 @@ export const HeroContent = () => {
                                             bounce: 0.3,
                                             duration: 1.5
                                         } as const
-                                    }
+                                    } 
                                 }
                             }}>
                                 <Link
-                                    href="#link"
-                                    className="hover:bg-background dark:hover:border-t-border bg-muted group mx-auto flex w-fit items-center gap-4 rounded-full border p-1 pl-4 shadow-md shadow-black/5 transition-all duration-300 dark:border-t-white/5 dark:shadow-zinc-950">
-                                    <span className="text-foreground text-sm">Introducing Support for AI Models</span>
+                                    href="https://www.trae.ai/?ref=trae.org"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="hover:bg-background dark:hover:border-t-border bg-muted group mx-auto flex w-fit items-center gap-2 rounded-full border p-1 pl-4 shadow-md shadow-black/5 transition-all duration-300 dark:border-t-white/5 dark:shadow-zinc-950">
+                                    <span className="text-foreground text-sm">Go to try Trae ai</span>
                                     <span className="dark:border-background block h-4 w-0.5 border-l bg-white dark:bg-zinc-700"></span>
 
                                     <div className="bg-background group-hover:bg-muted size-6 overflow-hidden rounded-full duration-500">
@@ -80,10 +82,10 @@ export const HeroContent = () => {
                                 </Link>
                     
                                 <h1 className="mt-8 max-w-4xl mx-auto text-balance text-6xl md:text-7xl lg:mt-16 xl:text-[5.25rem]">
-                                    Build faster with Tailark
+                                    Build faster with Trae.ai
                                 </h1>
                                 <p className="mx-auto mt-8 max-w-2xl text-balance text-lg">
-                                    Highly customizable components for building modern websites and applications that look and feel the way you mean it.
+                                    Trae Dictionary integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.
                                 </p>
                             </AnimatedGroup>
 
